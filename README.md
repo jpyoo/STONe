@@ -162,4 +162,3 @@ Jay Phil Yoo, Kazuma Kobayashi, Souvik Chakraborty, Syed Bahauddin Alam
 ## Model Card Contact
 
 jayyoo2@illinois.edu
-```
