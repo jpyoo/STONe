@@ -94,7 +94,7 @@ The optimal GRU-STONe variant contains 3.37M parameters. The model was trained u
 
 #### Testing Data
 
-The 45% chronological test set generated from EXPACS simulation data and NMDB measurements, strictly reserved to test generalizability to unseen temporal environments.
+The 45% chronological [test set](https://uofi.box.com/s/9plxqtzkqxlw9s77mhtq0ztv5wa9u7h2) generated from EXPACS simulation data and NMDB measurements, strictly reserved to test generalizability to unseen temporal environments.
 
 #### Factors
 
